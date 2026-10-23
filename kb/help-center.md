@@ -1,4 +1,4 @@
-# Nimbus Sync help center (fictional demo product)
+# Nimbus Sync help center
 
 ## Reset your password
 1. On the sign-in page, choose "Forgot password".
